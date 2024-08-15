@@ -2,7 +2,11 @@
 <a href="mailto:devcho3356@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>  
+  
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho/)  
+  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical)
 
 ### Programming Languages
