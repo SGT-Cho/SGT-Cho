@@ -1,3 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGT-Cho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="mailto:devcho3356@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a>  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho/)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical)
 
 ### Programming Languages
@@ -15,6 +20,7 @@
 <a href="https://docs.opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
 <a href="https://matplotlib.org/stable/contents.html" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/></a>
+<a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF4B4B?style=flat-square&logo=xgboost&logoColor=white"/></a>
 
 ### Tools & Platforms
 <a href="https://jupyter.org/documentation" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
@@ -23,6 +29,7 @@
 <a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="https://docs.mcneel.com/rhino/7/usersguide/en-us/" target="_blank"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
 
 
 
