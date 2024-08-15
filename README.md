@@ -1,11 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGT-Cho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGT-Cho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho) 
 <a href="mailto:devcho3356@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>  
   
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho/)  
-  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical)
   
@@ -13,7 +14,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mobilelife0115)](https://solved.ac/mobilelife0115/)  
   
     
-    
+
 ### Programming Languages
 <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
