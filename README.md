@@ -1,8 +1,21 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGT-Cho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho) 
 <a href="mailto:devcho3356@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>  
+
+### My Blog & Posts  
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho)   
+
+### My YouTube Channel  
+
+<a href="https://www.youtube.com/@devcho3356/featured" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+</a>  
+  
+### Latest Video
+[![Watch the video](https://img.youtube.com/vi/91jbnFpjw9c/0.jpg)](https://www.youtube.com/watch?v=91jbnFpjw9c)
+
   
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)  
