@@ -5,7 +5,11 @@
 
 ### My Blog & Posts  
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho)     
+  
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)    
+      
 
 ### My YouTube Channel  
 
@@ -18,7 +22,7 @@
 
   
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)  
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical)
