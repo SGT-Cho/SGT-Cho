@@ -2,6 +2,8 @@
 <a href="mailto:devcho3356@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>  
+### My Portfolio
+[!SGT-Cho's Portfolio](https://github.com/SGT-Cho/Portfolio)
 
 ### My Blog & Posts  
 
