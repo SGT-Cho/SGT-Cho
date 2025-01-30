@@ -13,6 +13,13 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)    
       
 
+
+###Hugging Face Profile
+
+<a href="https://huggingface.co/mobilelife" target="_blank"> 
+   <img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face Profile"/> 
+</a>
+
 ### My YouTube Channel  
 
 <a href="https://www.youtube.com/@devcho3356/featured" target="_blank">
@@ -52,6 +59,7 @@
 <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF4B4B?style=flat-square&logo=xgboost&logoColor=white"/></a>
 
 ### Tools & Platforms
+<a href="https://huggingface.co/docs" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white"/></a>
 <a href="https://jupyter.org/documentation" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
 <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
