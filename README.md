@@ -16,7 +16,7 @@
 
 ### Hugging Face Profile
 
-<a href="https://huggingface.co/mobilelife" target="_blank"> 
+<a href="https://huggingface.co/SGTCho" target="_blank"> 
    <img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face Profile"/> 
 </a>
 
