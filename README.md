@@ -57,7 +57,8 @@
 <a href="https://matplotlib.org/stable/contents.html" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/></a>
 <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF4B4B?style=flat-square&logo=xgboost&logoColor=white"/></a>
-
+<a href="https://python.langchain.com/en/latest/" target="_blank"><img src="https://img.shields.io/badge/LangChain-143055?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain Docs"/></a>
+  
 ### Tools & Platforms
 <a href="https://huggingface.co/docs" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white"/></a>
 <a href="https://jupyter.org/documentation" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
