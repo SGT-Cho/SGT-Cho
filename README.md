@@ -5,7 +5,7 @@
 ### My Portfolio
 [SGT-Cho's Portfolio_ko](https://github.com/SGT-Cho/Portfolio)  
 
-[SGT-Cho's Portfolio_en](https://github.com/SGT-Cho/Portfolio/portfolio_en.md)
+[SGT-Cho's Portfolio_en](https://github.com/SGT-Cho/Portfolio/blob/main/portfolio_en.md)
 
 
 ### My Blog & Posts  
