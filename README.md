@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel"/>
 </a>  
   
-### Latest Video
+### Youtube Video
 [![Watch the video](https://img.youtube.com/vi/91jbnFpjw9c/0.jpg)](https://www.youtube.com/watch?v=91jbnFpjw9c)
 
   
