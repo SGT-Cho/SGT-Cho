@@ -11,7 +11,7 @@
 ### My Blog & Posts  
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho)     
-  
+[![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=github&logoColor=white)](https://sgt-cho.github.io/)  
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)    
       
