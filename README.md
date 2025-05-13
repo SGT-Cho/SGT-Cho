@@ -61,6 +61,10 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/></a>
 <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF4B4B?style=flat-square&logo=xgboost&logoColor=white"/></a>
 <a href="https://python.langchain.com/en/latest/" target="_blank"><img src="https://img.shields.io/badge/LangChain-143055?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Docs"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+<a href="https://docs.ultralytics.com/" target="_blank"><img src="https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=ultralytics&logoColor=white"/></a>
+<a href="https://gym.openai.com/" target="_blank"><img src="https://img.shields.io/badge/Gym-000000?style=flat-square&logo=openai&logoColor=white"/></a>
   
 ### Tools & Platforms
 <a href="https://huggingface.co/docs" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white"/></a>
@@ -71,7 +75,9 @@
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="https://docs.mcneel.com/rhino/7/usersguide/en-us/" target="_blank"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
-
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-3D3D3D?style=flat-square&logo=n8n&logoColor=white"/></a>
+<a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-FFFFFF?style=flat-square&logo=github&logoColor=black"/></a>
 
 
 <!--
