@@ -1,4 +1,3 @@
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SGT-Cho.SGT-Cho&theme=dark)](https://github.com/SGT-Cho)
 <a href="mailto:devcho3356@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>  
