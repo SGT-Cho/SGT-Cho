@@ -1,96 +1,66 @@
-<a href="mailto:devcho3356@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
-</a>  
+<h1 align="center">조민제 &nbsp;·&nbsp; Minjae Cho</h1>
+<p align="center"><b>AI Researcher</b> &nbsp;@&nbsp; DOST11</p>
+<p align="center"><i>Generative Media &nbsp;·&nbsp; VLM & OCR &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Multi-Agent Systems</i></p>
 
-### My Portfolio
-[SGT-Cho's Portfolio_ko](https://github.com/SGT-Cho/Portfolio)  
+<p align="center">
+  <a href="mailto:devcho3356@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://sgtcho.com"><img src="https://img.shields.io/badge/sgtcho.com-000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+  <a href="https://huggingface.co/SGTCho"><img src="https://img.shields.io/badge/🤗%20HuggingFace-FFAE33?style=flat-square&logoColor=white"/></a>
+  <a href="https://velog.io/@sgt-cho"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@devcho3356/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+</p>
 
-[SGT-Cho's Portfolio_en](https://github.com/SGT-Cho/Portfolio/blob/main/portfolio_en.md)
+---
 
+### 👋 About
 
-### My Blog & Posts  
+Incheon National University에서 컴퓨터공학을 전공하고, 현재 **DOST11**에서 AI Researcher로 일하고 있습니다. 대규모 분산 학습 환경(단일 GPU → 8× A100)에서 생성형 미디어 모델을 다루고, VLM 파인튜닝(LoRA/QLoRA)과 RAG·멀티 에이전트 시스템을 연구합니다. 이론적 엄밀함과 프로덕션 엔지니어링을 함께 추구하는 것을 지향합니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sgt-cho)](https://velog.io/@sgt-cho)     
-[![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=github&logoColor=white)](https://sgt-cho.github.io/)  
+*AI Researcher at DOST11, currently focused on large-scale generative media pipelines, VLM fine-tuning, and retrieval-augmented multi-agent systems. B.S. in Computer Science & Engineering from Incheon National University. I care equally about research rigor and production-grade engineering.*
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sgt-cho&color=dark)](https://velog.io/@sgt-cho)    
-      
+---
 
+### 🔬 Focus Areas
 
-### Hugging Face Profile
+- **Generative Media** — Diffusion / video generation, distributed training workflows
+- **VLM & OCR** — Vision-language model fine-tuning, multilingual document understanding
+- **RAG & Retrieval** — Embedding pipelines, vector DBs, evidence-grounded generation
+- **Multi-Agent Systems** — Tool-using agents, MCP, orchestration
+- **MLOps** — LoRA/QLoRA fine-tuning, benchmark harnesses, GPU workflow automation
 
-<a href="https://huggingface.co/SGTCho" target="_blank"> 
-   <img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face Profile"/> 
-</a>
+---
 
-### My YouTube Channel  
+### 🧰 Stack
 
-<a href="https://www.youtube.com/@devcho3356/featured" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel"/>
-</a>  
-  
-### Youtube Video
-[![Watch the video](https://img.youtube.com/vi/91jbnFpjw9c/0.jpg)](https://www.youtube.com/watch?v=91jbnFpjw9c)
+**AI / ML** &nbsp; PyTorch · HuggingFace (Transformers, PEFT) · LangChain · LoRA/QLoRA · Diffusion · vLLM · Ollama · ChromaDB · Wandb · OpenAI API · MCP
+**Data & Backend** &nbsp; FastAPI · REST · PostgreSQL · Pandas · NumPy · Playwright
+**Infra** &nbsp; AWS (EC2) · GCP · Runpod · Docker · Airflow · ComfyUI · Linux · GitHub Actions · n8n
+**Languages** &nbsp; Python · SQL · C++ · Bash
 
-  
+---
 
+### 🎓 Background
 
+| | |
+|---|---|
+| **AI Researcher** | DOST11 · Sep 2025 – Present |
+| **ML Engineer (Intern)** | KMWorks Inc. · Jan 2024 – Aug 2025 |
+| **Student Researcher** | Modulabs (CV / NLP) · Nov 2022 – May 2023 |
+| **KATUSA** | ROK–US Combined Forces · Nov 2020 – May 2022 |
+| **B.S. Computer Science & Engineering** | Incheon National University · 2018 – 2026 |
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical)
-  
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mobilelife0115)](https://solved.ac/mobilelife0115/)  
-  
-    
+### 📊 Stats
 
-### Programming Languages
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
-<a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<a href="https://www.python.org/doc/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
 
-### Libraries & Frameworks
-<a href="https://numpy.org/doc/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
-<a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-<a href="https://pytorch.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
-<a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>
-<a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
-<a href="https://docs.opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
-<a href="https://matplotlib.org/stable/contents.html" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/></a>
-<a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF4B4B?style=flat-square&logo=xgboost&logoColor=white"/></a>
-<a href="https://python.langchain.com/en/latest/" target="_blank"><img src="https://img.shields.io/badge/LangChain-143055?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Docs"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-<a href="https://docs.ultralytics.com/" target="_blank"><img src="https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=ultralytics&logoColor=white"/></a>
-<a href="https://gym.openai.com/" target="_blank"><img src="https://img.shields.io/badge/Gym-000000?style=flat-square&logo=openai&logoColor=white"/></a>
-  
-### Tools & Platforms
-<a href="https://huggingface.co/docs" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<a href="https://jupyter.org/documentation" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
-<a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
-<a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
-<a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<a href="https://docs.mcneel.com/rhino/7/usersguide/en-us/" target="_blank"><img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/></a>
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-3D3D3D?style=flat-square&logo=n8n&logoColor=white"/></a>
-<a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-FFFFFF?style=flat-square&logo=github&logoColor=black"/></a>
+<p align="center">
+  <a href="https://solved.ac/mobilelife0115/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mobilelife0115" alt="Solved.ac"/></a>
+</p>
 
+---
 
-<!--
-**SGT-Cho/SGT-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">📫 <a href="mailto:devcho3356@gmail.com">devcho3356@gmail.com</a></p>
