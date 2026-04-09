@@ -50,14 +50,10 @@ Incheon National University에서 컴퓨터공학을 전공하고, 현재 **DOST
 
 ---
 
-### 📊 Stats
+### 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SGT-Cho&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <a href="https://solved.ac/mobilelife0115/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mobilelife0115" alt="Solved.ac"/></a>
+  <a href="https://solved.ac/mobilelife0115/"><img src="http://mazassumnida.wtf/api/v2/generate_badge/mobilelife0115" alt="Solved.ac"/></a>
 </p>
 
 ---
