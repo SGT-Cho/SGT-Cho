@@ -42,12 +42,80 @@ Incheon National University에서 컴퓨터공학을 전공하고, 현재 **DOST
 ### 🧰 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,bash,fastapi,postgres,docker,aws,gcp,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,rust,go,ts,js,fastapi,postgres,redis,docker,kubernetes,aws,gcp,linux&perline=8" />
 </p>
 
-**AI / ML** &nbsp; HuggingFace (Transformers · PEFT) · LoRA/QLoRA · Diffusion · vLLM · Ollama · LangChain · ChromaDB · ComfyUI · Wandb · OpenAI API · MCP
-**Data & MLOps** &nbsp; REST · Pandas · NumPy · Playwright · Airflow · n8n · Runpod
-**Languages** &nbsp; Python · SQL · C++ · Bash
+<sub>▾ 카테고리를 누르면 상세 스택이 펼쳐집니다</sub>
+
+<details>
+<summary>💬 <b>Languages</b></summary>
+
+Python · C++ · Rust · Go · TypeScript · JavaScript · CUDA · Bash · SQL
+
+</details>
+
+<details>
+<summary>🧠 <b>ML · Training & Fine-tuning</b></summary>
+
+PyTorch · TensorFlow · Keras · HuggingFace (Transformers · PEFT) · LoRA/QLoRA · Accelerate · DeepSpeed · Unsloth · Flash-Attention · bitsandbytes
+
+</details>
+
+<details>
+<summary>👁 <b>Vision & Multimodal</b></summary>
+
+OpenCV · Pillow · CLIP / OpenCLIP · SAM · Diffusers · ComfyUI
+
+</details>
+
+<details>
+<summary>⚡ <b>Serving & Inference</b></summary>
+
+vLLM · SGLang · Triton Inference Server · Ollama
+
+</details>
+
+<details>
+<summary>🔎 <b>RAG · Retrieval · Agents</b></summary>
+
+LangChain · LangGraph · DSPy · MCP · ChromaDB · Qdrant · pgvector · Elasticsearch · OpenAI API
+
+</details>
+
+<details>
+<summary>🏗 <b>Infra & MLOps</b></summary>
+
+Docker · Kubernetes · AWS · GCP · Cloudflare · Runpod · Linux · GitHub Actions · Airflow · n8n · DVC
+
+</details>
+
+<details>
+<summary>📊 <b>Monitoring & Experiment</b></summary>
+
+Weights & Biases · MLflow · TensorBoard · Prometheus · Grafana
+
+</details>
+
+<details>
+<summary>🗄 <b>Data · Backend · Messaging</b></summary>
+
+FastAPI · REST · Pydantic · PostgreSQL · MySQL · Supabase · DuckDB · Redis · Kafka · RabbitMQ · Celery · Spark · S3 / R2 · Nginx · Pandas · NumPy · Playwright
+
+</details>
+
+<details>
+<summary>🖥 <b>App & Frontend</b></summary>
+
+React · Next.js · Vue · Svelte · Vite · Electron · Tauri · Flutter · WebRTC · WebSocket · Gradio · Streamlit
+
+</details>
+
+<details>
+<summary>🧰 <b>Dev & Tooling</b></summary>
+
+Git · uv · Conda · Jupyter
+
+</details>
 
 ---
 
@@ -60,14 +128,6 @@ Incheon National University에서 컴퓨터공학을 전공하고, 현재 **DOST
 | **Student Researcher** | Modulabs (CV / NLP) · Nov 2022 – May 2023 |
 | **KATUSA** | ROK–US Combined Forces · Nov 2020 – May 2022 |
 | **B.S. Computer Science & Engineering** | Incheon National University · 2018 – 2026 |
-
----
-
-### 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://solved.ac/mobilelife0115/"><img src="http://mazassumnida.wtf/api/v2/generate_badge/mobilelife0115" alt="Solved.ac"/></a>
-</p>
 
 ---
 
