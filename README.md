@@ -125,7 +125,7 @@ Git · uv · Conda · Jupyter
 | **AI Researcher** | DOST11 · Sep 2025 – Present |
 | **ML Engineer (Intern)** | KMWorks Inc. · Jan 2024 – Aug 2025 |
 | **Student Researcher** | Modulabs (CV / NLP) · Nov 2022 – May 2023 |
-| **KATUSA** | ROK–US Combined Forces · Nov 2020 – May 2022 |
+| **KATUSA** | Special Operations Command KOR · Nov 2020 – May 2022 |
 | **B.S. Computer Science & Engineering** | Incheon National University · 2018 – 2026 |
 
 ---
