@@ -14,9 +14,9 @@
 
 ### 👋 About
 
-Incheon National University에서 컴퓨터공학을 전공하고, 현재 **DOST11**에서 AI Researcher로 일하고 있습니다. VLM·OCR·음성(TTS/STT)을 아우르는 멀티모달 모델과 생성형 이미지/비디오 파이프라인을 다루고, 모델 서빙·인프라·벤치마크까지 프로덕션 전 과정을 연구합니다. 이론적 엄밀함과 프로덕션 엔지니어링을 함께 추구하는 것을 지향합니다.
+현재 **DOST11**에서 AI Researcher로 일하고 있습니다. 멀티모달 모델과 생성형 이미지/비디오 파이프라인을 다루고 있습니다.
 
-*AI Researcher at DOST11, working across multimodal models (VLM, OCR, speech) and generative image/video pipelines — through to serving, infra, and benchmarking. B.S. in Computer Science & Engineering from Incheon National University. I care equally about research rigor and production-grade engineering.*
+*AI Researcher at DOST11, working across multimodal models (VLM, OCR, speech) and generative image/video pipelines*
 
 ---
 
