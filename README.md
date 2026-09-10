@@ -33,8 +33,7 @@
 ### 🚀 Now
 
 - 🎬 사내 영상 편집용 AI 툴 개발 — 이미지/비디오 생성 모델 학습 · 서빙
-- 🧩 Multimodal 연구 — VLM · OCR · TTS · STT 파이프라인과 benchmark harness 구축
-- ⚙️ Inference serving & GPU 인프라 최적화
+- 🧩 Multimodal 연구 — VLM · OCR · TTS · STT 파이프라인과 구축
 - 🛰️ **Personal** — <a href="https://reachremote.app/">ReachRemote</a> 원격 리모트 앱 개발 <a href="https://reachremote.app/"><img src="https://img.shields.io/badge/reachremote.app-3B82F6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 ---
